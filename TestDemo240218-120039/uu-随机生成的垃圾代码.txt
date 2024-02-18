@@ -1,0 +1,459 @@
+
+
+
+SDImageAssetManager
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix134_user134;\n', '\n+ (void)func_prefix135_user135;\n', '\n- (void)func_prefix136_user136;\n', '\n- (void)func_prefix137_user137;\n', '\n+ (void)func_prefix138_user138;\n']
+.m函数：['\n+ (void)func_prefix134_user134{\n\n}\n', '\n+ (void)func_prefix135_user135{\n\n}\n', '\n- (void)func_prefix136_user136{\n\n}\n', '\n- (void)func_prefix137_user137{\n\n}\n', '\n+ (void)func_prefix138_user138{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) UIImage *azimuTypogUnins;\n']
+.m属性：['\n@property (nonatomic, strong) UIImage *rushFatalUnbou;\n']
+
+
+
+
+NSString+uu_Extension3
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix132_user132;\n', '\n- (void)func_prefix133_user133;\n']
+.m函数：['\n+ (void)func_prefix132_user132{\n\n}\n', '\n- (void)func_prefix133_user133{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+UIColor+SDHexString
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix126_user126;\n', '\n+ (void)func_prefix127_user127;\n', '\n+ (void)func_prefix128_user128;\n', '\n- (void)func_prefix129_user129;\n', '\n+ (void)func_prefix130_user130;\n', '\n+ (void)func_prefix131_user131;\n']
+.m函数：['\n+ (void)func_prefix126_user126{\n\n}\n', '\n+ (void)func_prefix127_user127{\n\n}\n', '\n+ (void)func_prefix128_user128{\n\n}\n', '\n- (void)func_prefix129_user129{\n\n}\n', '\n+ (void)func_prefix130_user130{\n\n}\n', '\n+ (void)func_prefix131_user131{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+SDImageCachesManagerOperation
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix124_user124;\n', '\n- (void)func_prefix125_user125;\n']
+.m函数：['\n- (void)func_prefix124_user124{\n\n}\n', '\n- (void)func_prefix125_user125{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) UIView *playg;\n', '\n@property (nonatomic, strong) UIImage *subcoNoncuRetri;\n', '\n@property (nonatomic, assign) BOOL monocMarti;\n']
+.m属性：['\n@property (nonatomic, strong) UIView *subtiMps;\n', '\n@property (nonatomic, strong) NSArray *viewaRetra;\n', '\n@property (nonatomic, strong) NSDictionary *nrpbZh;\n', '\n@property (nonatomic, strong) NSString *subjePromiDiscu;\n', '\n@property (nonatomic, strong) UIImage *memoCos;\n', '\n@property (nonatomic, strong) NSString *corouNumer;\n']
+
+
+
+
+SDDisplayLink
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix122_user122;\n', '\n- (void)func_prefix123_user123;\n']
+.m函数：['\n- (void)func_prefix122_user122{\n\n}\n', '\n- (void)func_prefix123_user123{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) UIImage *antar;\n']
+.m属性：['\n@property (nonatomic, strong) NSDictionary *splinAutoc;\n']
+
+
+
+
+SDAsyncBlockOperation
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix121_user121;\n']
+.m函数：['\n- (void)func_prefix121_user121{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSDictionary *submo;\n', '\n@property (nonatomic, strong) UIView *worka;\n']
+.m属性：['\n@property (nonatomic, strong) NSString *studiSkeleMaxi;\n', '\n@property (nonatomic, strong) NSArray *motifRubbeWalki;\n']
+
+
+
+
+SDFileAttributeHelper
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix120_user120;\n']
+.m函数：['\n- (void)func_prefix120_user120{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSString *downsDeath;\n', '\n@property (nonatomic, strong) UIView *millTopolIndiv;\n', '\n@property (nonatomic, strong) NSArray *weeksMajorEgo;\n']
+.m属性：['\n@property (nonatomic, strong) NSDictionary *timeRunna;\n', '\n@property (nonatomic, strong) UIImage *sorta;\n', '\n@property (nonatomic, strong) NSString *navAdmisGamep;\n', '\n@property (nonatomic, strong) NSArray *neteaInsid;\n', '\n@property (nonatomic, strong) UIView *dseaMods;\n']
+
+
+
+
+SDWeakProxy
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix119_user119;\n']
+.m函数：['\n+ (void)func_prefix119_user119{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSString *magazWrappCappe;\n']
+.m属性：['\n@property (nonatomic, strong) NSString *borroAnaloDownl;\n']
+
+
+
+
+SDDeviceHelper
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix115_user115;\n', '\n- (void)func_prefix116_user116;\n', '\n- (void)func_prefix117_user117;\n', '\n- (void)func_prefix118_user118;\n']
+.m函数：['\n+ (void)func_prefix115_user115{\n\n}\n', '\n- (void)func_prefix116_user116{\n\n}\n', '\n- (void)func_prefix117_user117{\n\n}\n', '\n- (void)func_prefix118_user118{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSDictionary *vmVacci;\n', '\n@property (nonatomic, strong) NSString *smsMik;\n']
+.m属性：['\n@property (nonatomic, strong) NSString *savedFsnsEar;\n', '\n@property (nonatomic, strong) UIView *limit;\n', '\n@property (nonatomic, strong) NSArray *livinEncap;\n', '\n@property (nonatomic, assign) BOOL undocFacadRatin;\n', '\n@property (nonatomic, strong) UIImage *twirlNpk;\n', '\n@property (nonatomic, strong) NSDictionary *from;\n']
+
+
+
+
+UIImage+GIF
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix114_user114;\n']
+.m函数：['\n+ (void)func_prefix114_user114{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+SDImageCodersManager
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix110_user110;\n', '\n- (void)func_prefix111_user111;\n', '\n- (void)func_prefix112_user112;\n', '\n- (void)func_prefix113_user113;\n']
+.m函数：['\n- (void)func_prefix110_user110{\n\n}\n', '\n- (void)func_prefix111_user111{\n\n}\n', '\n- (void)func_prefix112_user112{\n\n}\n', '\n- (void)func_prefix113_user113{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSDictionary *sized;\n']
+.m属性：['\n@property (nonatomic, strong) NSString *higli;\n', '\n@property (nonatomic, strong) UIImage *dayliSegmeSec;\n', '\n@property (nonatomic, strong) NSArray *zippeBsc;\n', '\n@property (nonatomic, assign) BOOL evaluAdvisExite;\n']
+
+
+
+
+UIImage+MultiFormat
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix109_user109;\n']
+.m函数：['\n+ (void)func_prefix109_user109{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+SDMemoryCache
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix104_user104;\n', '\n+ (void)func_prefix105_user105;\n', '\n- (void)func_prefix106_user106;\n', '\n+ (void)func_prefix107_user107;\n', '\n- (void)func_prefix108_user108;\n']
+.m函数：['\n- (void)func_prefix104_user104{\n\n}\n', '\n+ (void)func_prefix105_user105{\n\n}\n', '\n- (void)func_prefix106_user106{\n\n}\n', '\n+ (void)func_prefix107_user107{\n\n}\n', '\n- (void)func_prefix108_user108{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSString *issue;\n', '\n@property (nonatomic, assign) BOOL arityK_allocTlp;\n', '\n@property (nonatomic, strong) UIImage *water;\n']
+.m属性：['\n@property (nonatomic, strong) NSDictionary *autou;\n', '\n@property (nonatomic, strong) NSString *ehPaletPui;\n', '\n@property (nonatomic, strong) NSString *seed;\n']
+
+
+
+
+SDImageAPNGCoder
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix102_user102;\n', '\n- (void)func_prefix103_user103;\n']
+.m函数：['\n- (void)func_prefix102_user102{\n\n}\n', '\n- (void)func_prefix103_user103{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSDictionary *iandSoft;\n', '\n@property (nonatomic, strong) UIView *phongCoral;\n']
+.m属性：['\n@property (nonatomic, strong) UIImage *questHeadlSnap;\n']
+
+
+
+
+SDImageCoderHelper
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix99_user99;\n', '\n- (void)func_prefix100_user100;\n', '\n+ (void)func_prefix101_user101;\n']
+.m函数：['\n- (void)func_prefix99_user99{\n\n}\n', '\n- (void)func_prefix100_user100{\n\n}\n', '\n+ (void)func_prefix101_user101{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSString *conce;\n', '\n@property (nonatomic, strong) UIImage *muxerDeadl;\n']
+.m属性：['\n@property (nonatomic, strong) NSDictionary *morphEnqListi;\n', '\n@property (nonatomic, assign) BOOL progUicTown;\n', '\n@property (nonatomic, strong) NSString *foot;\n', '\n@property (nonatomic, strong) UIView *gradi;\n', '\n@property (nonatomic, strong) NSArray *luxUltra;\n']
+
+
+
+
+UIImage+ForceDecode
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix97_user97;\n', '\n- (void)func_prefix98_user98;\n']
+.m函数：['\n+ (void)func_prefix97_user97{\n\n}\n', '\n- (void)func_prefix98_user98{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+SDImageAWebPCoder
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix91_user91;\n', '\n- (void)func_prefix92_user92;\n', '\n+ (void)func_prefix93_user93;\n', '\n- (void)func_prefix94_user94;\n', '\n+ (void)func_prefix95_user95;\n', '\n+ (void)func_prefix96_user96;\n']
+.m函数：['\n- (void)func_prefix91_user91{\n\n}\n', '\n- (void)func_prefix92_user92{\n\n}\n', '\n+ (void)func_prefix93_user93{\n\n}\n', '\n- (void)func_prefix94_user94{\n\n}\n', '\n+ (void)func_prefix95_user95{\n\n}\n', '\n+ (void)func_prefix96_user96{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) UIImage *renew;\n', '\n@property (nonatomic, strong) NSString *struc;\n', '\n@property (nonatomic, strong) NSString *clippSigne;\n', '\n@property (nonatomic, strong) NSDictionary *iw;\n']
+.m属性：['\n@property (nonatomic, assign) BOOL borroTraceBlind;\n', '\n@property (nonatomic, strong) NSString *emotiTyphoPack;\n', '\n@property (nonatomic, strong) NSDictionary *becamGrantPlayl;\n', '\n@property (nonatomic, strong) NSArray *repeaWifiAbnor;\n']
+
+
+
+
+SDAnimatedImagePlayer
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix88_user88;\n', '\n- (void)func_prefix89_user89;\n', '\n+ (void)func_prefix90_user90;\n']
+.m函数：['\n+ (void)func_prefix88_user88{\n\n}\n', '\n- (void)func_prefix89_user89{\n\n}\n', '\n+ (void)func_prefix90_user90{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSString *dirtyFootp;\n']
+.m属性：['\n@property (nonatomic, strong) NSString *varyNeuro;\n', '\n@property (nonatomic, strong) NSDictionary *eadCfsgPrefe;\n']
+
+
+
+
+UIImage+Transform
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix87_user87;\n']
+.m函数：['\n+ (void)func_prefix87_user87{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+SDWebImageCacheSerializer
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix85_user85;\n', '\n+ (void)func_prefix86_user86;\n']
+.m函数：['\n+ (void)func_prefix85_user85{\n\n}\n', '\n+ (void)func_prefix86_user86{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) UIImage *tappe;\n', '\n@property (nonatomic, strong) NSString *weekVmidDeall;\n', '\n@property (nonatomic, strong) UIView *glassCodebCpk;\n', '\n@property (nonatomic, strong) NSArray *bandpUniniRegio;\n']
+.m属性：['\n@property (nonatomic, strong) NSString *redefSite;\n', '\n@property (nonatomic, strong) NSDictionary *distiDefro;\n', '\n@property (nonatomic, strong) UIView *leadiEscap;\n', '\n@property (nonatomic, assign) BOOL logis;\n', '\n@property (nonatomic, strong) NSString *stubs;\n']
+
+
+
+
+SDImageIOAnimatedCoder
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix84_user84;\n']
+.m函数：['\n- (void)func_prefix84_user84{\n\n}\n']
+.h属性：['\n@property (nonatomic, assign) BOOL appliChara;\n', '\n@property (nonatomic, strong) NSString *prepe;\n']
+.m属性：['\n@property (nonatomic, strong) NSArray *hansSweepRoami;\n', '\n@property (nonatomic, strong) NSDictionary *objecEadSundr;\n', '\n@property (nonatomic, strong) UIImage *averaWakinEnq;\n', '\n@property (nonatomic, assign) BOOL readeGlassProno;\n']
+
+
+
+
+UIImageView+HighlightedWebCache
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix80_user80;\n', '\n- (void)func_prefix81_user81;\n', '\n- (void)func_prefix82_user82;\n', '\n+ (void)func_prefix83_user83;\n']
+.m函数：['\n+ (void)func_prefix80_user80{\n\n}\n', '\n- (void)func_prefix81_user81{\n\n}\n', '\n- (void)func_prefix82_user82{\n\n}\n', '\n+ (void)func_prefix83_user83{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+SDAnimatedImage
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix77_user77;\n', '\n+ (void)func_prefix78_user78;\n', '\n+ (void)func_prefix79_user79;\n']
+.m函数：['\n- (void)func_prefix77_user77{\n\n}\n', '\n+ (void)func_prefix78_user78{\n\n}\n', '\n+ (void)func_prefix79_user79{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSArray *crede;\n']
+.m属性：['\n@property (nonatomic, strong) NSDictionary *teams;\n', '\n@property (nonatomic, strong) NSString *twit;\n', '\n@property (nonatomic, strong) NSArray *tick;\n', '\n@property (nonatomic, strong) UIView *iteraVerbo;\n', '\n@property (nonatomic, strong) NSString *cstri;\n']
+
+
+
+
+SDAnimatedImageView
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix73_user73;\n', '\n+ (void)func_prefix74_user74;\n', '\n+ (void)func_prefix75_user75;\n', '\n+ (void)func_prefix76_user76;\n']
+.m函数：['\n+ (void)func_prefix73_user73{\n\n}\n', '\n+ (void)func_prefix74_user74{\n\n}\n', '\n+ (void)func_prefix75_user75{\n\n}\n', '\n+ (void)func_prefix76_user76{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSArray *separQuaryApp;\n']
+.m属性：['\n@property (nonatomic, strong) NSString *inkSepra;\n']
+
+
+
+
+SDImageHEICCoder
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix71_user71;\n', '\n- (void)func_prefix72_user72;\n']
+.m函数：['\n+ (void)func_prefix71_user71{\n\n}\n', '\n- (void)func_prefix72_user72{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSDictionary *sevicKaleiTempl;\n', '\n@property (nonatomic, assign) BOOL aho;\n', '\n@property (nonatomic, strong) UIView *demanHid;\n', '\n@property (nonatomic, strong) NSString *abstrProfi;\n', '\n@property (nonatomic, strong) UIImage *dots;\n']
+.m属性：['\n@property (nonatomic, strong) NSString *loudBuyer;\n', '\n@property (nonatomic, strong) NSDictionary *heroClpsRebro;\n', '\n@property (nonatomic, strong) UIImage *lewis;\n', '\n@property (nonatomic, strong) NSString *modelEntroHacks;\n']
+
+
+
+
+SDAnimatedImageView+WebCache
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix66_user66;\n', '\n- (void)func_prefix67_user67;\n', '\n+ (void)func_prefix68_user68;\n', '\n- (void)func_prefix69_user69;\n', '\n+ (void)func_prefix70_user70;\n']
+.m函数：['\n+ (void)func_prefix66_user66{\n\n}\n', '\n- (void)func_prefix67_user67{\n\n}\n', '\n+ (void)func_prefix68_user68{\n\n}\n', '\n- (void)func_prefix69_user69{\n\n}\n', '\n+ (void)func_prefix70_user70{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+UIView+WebCacheOperation
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix61_user61;\n', '\n+ (void)func_prefix62_user62;\n', '\n- (void)func_prefix63_user63;\n', '\n- (void)func_prefix64_user64;\n', '\n- (void)func_prefix65_user65;\n']
+.m函数：['\n- (void)func_prefix61_user61{\n\n}\n', '\n+ (void)func_prefix62_user62{\n\n}\n', '\n- (void)func_prefix63_user63{\n\n}\n', '\n- (void)func_prefix64_user64{\n\n}\n', '\n- (void)func_prefix65_user65{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+UIView+WebCache
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix59_user59;\n', '\n+ (void)func_prefix60_user60;\n']
+.m函数：['\n+ (void)func_prefix59_user59{\n\n}\n', '\n+ (void)func_prefix60_user60{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+UIImage+Metadata
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix53_user53;\n', '\n- (void)func_prefix54_user54;\n', '\n+ (void)func_prefix55_user55;\n', '\n+ (void)func_prefix56_user56;\n', '\n+ (void)func_prefix57_user57;\n', '\n- (void)func_prefix58_user58;\n']
+.m函数：['\n+ (void)func_prefix53_user53{\n\n}\n', '\n- (void)func_prefix54_user54{\n\n}\n', '\n+ (void)func_prefix55_user55{\n\n}\n', '\n+ (void)func_prefix56_user56{\n\n}\n', '\n+ (void)func_prefix57_user57{\n\n}\n', '\n- (void)func_prefix58_user58{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+UIButton+WebCache
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix48_user48;\n', '\n- (void)func_prefix49_user49;\n', '\n- (void)func_prefix50_user50;\n', '\n- (void)func_prefix51_user51;\n', '\n+ (void)func_prefix52_user52;\n']
+.m函数：['\n- (void)func_prefix48_user48{\n\n}\n', '\n- (void)func_prefix49_user49{\n\n}\n', '\n- (void)func_prefix50_user50{\n\n}\n', '\n- (void)func_prefix51_user51{\n\n}\n', '\n+ (void)func_prefix52_user52{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+UIImage+MemoryCacheCost
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix44_user44;\n', '\n- (void)func_prefix45_user45;\n', '\n+ (void)func_prefix46_user46;\n', '\n- (void)func_prefix47_user47;\n']
+.m函数：['\n- (void)func_prefix44_user44{\n\n}\n', '\n- (void)func_prefix45_user45{\n\n}\n', '\n+ (void)func_prefix46_user46{\n\n}\n', '\n- (void)func_prefix47_user47{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+SDWebImageCacheKeyFilter
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix40_user40;\n', '\n+ (void)func_prefix41_user41;\n', '\n- (void)func_prefix42_user42;\n', '\n- (void)func_prefix43_user43;\n']
+.m函数：['\n- (void)func_prefix40_user40{\n\n}\n', '\n+ (void)func_prefix41_user41{\n\n}\n', '\n- (void)func_prefix42_user42{\n\n}\n', '\n- (void)func_prefix43_user43{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSString *worki;\n', '\n@property (nonatomic, strong) NSString *unsubAslrTsch;\n']
+.m属性：['\n@property (nonatomic, strong) UIImage *uncleBrake;\n', '\n@property (nonatomic, strong) UIView *wishlJupitLooka;\n', '\n@property (nonatomic, assign) BOOL knowlWheNonfu;\n', '\n@property (nonatomic, strong) NSArray *hardwAvoidDeplo;\n']
+
+
+
+
+SDImageCacheConfig
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix39_user39;\n']
+.m函数：['\n- (void)func_prefix39_user39{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSDictionary *genea;\n', '\n@property (nonatomic, strong) UIImage *whaIsssuTelev;\n']
+.m属性：['\n@property (nonatomic, strong) NSString *aom;\n', '\n@property (nonatomic, strong) UIView *uvResil;\n']
+
+
+
+
+SDWebImageDownloaderConfig
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix38_user38;\n']
+.m函数：['\n- (void)func_prefix38_user38{\n\n}\n']
+.h属性：['\n@property (nonatomic, assign) BOOL sectiHeat;\n', '\n@property (nonatomic, strong) NSDictionary *pruniDemuxInsig;\n', '\n@property (nonatomic, strong) UIView *wheDamagItera;\n', '\n@property (nonatomic, strong) UIImage *townOldYun;\n']
+.m属性：['\n@property (nonatomic, strong) UIView *matMoveDic;\n']
+
+
+
+
+SDImageGIFCoder
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix35_user35;\n', '\n+ (void)func_prefix36_user36;\n', '\n- (void)func_prefix37_user37;\n']
+.m函数：['\n- (void)func_prefix35_user35{\n\n}\n', '\n+ (void)func_prefix36_user36{\n\n}\n', '\n- (void)func_prefix37_user37{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) UIImage *thunkLenti;\n', '\n@property (nonatomic, strong) NSArray *bt;\n', '\n@property (nonatomic, strong) NSString *omni;\n']
+.m属性：['\n@property (nonatomic, strong) UIView *fluff;\n', '\n@property (nonatomic, strong) NSDictionary *noodl;\n', '\n@property (nonatomic, strong) UIImage *unmasTrust;\n']
+
+
+
+
+SDImageFrame
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix33_user33;\n', '\n+ (void)func_prefix34_user34;\n']
+.m函数：['\n- (void)func_prefix33_user33{\n\n}\n', '\n+ (void)func_prefix34_user34{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSArray *poolEasyOngoi;\n', '\n@property (nonatomic, strong) UIView *diffi;\n', '\n@property (nonatomic, assign) BOOL hrCutDedup;\n', '\n@property (nonatomic, strong) NSDictionary *k_alloc;\n']
+.m属性：['\n@property (nonatomic, assign) BOOL downs;\n', '\n@property (nonatomic, strong) UIView *panel;\n', '\n@property (nonatomic, strong) NSArray *downw;\n']
+
+
+
+
+SDWebImageDownloaderOperation
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix27_user27;\n', '\n+ (void)func_prefix28_user28;\n', '\n+ (void)func_prefix29_user29;\n', '\n+ (void)func_prefix30_user30;\n', '\n- (void)func_prefix31_user31;\n', '\n+ (void)func_prefix32_user32;\n']
+.m函数：['\n- (void)func_prefix27_user27{\n\n}\n', '\n+ (void)func_prefix28_user28{\n\n}\n', '\n+ (void)func_prefix29_user29{\n\n}\n', '\n+ (void)func_prefix30_user30{\n\n}\n', '\n- (void)func_prefix31_user31{\n\n}\n', '\n+ (void)func_prefix32_user32{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSString *coercUpcom;\n']
+.m属性：['\n@property (nonatomic, strong) UIView *enrouAlway;\n', '\n@property (nonatomic, strong) NSDictionary *aplsCouns;\n', '\n@property (nonatomic, strong) UIImage *parkBeta;\n']
+
+
+
+
+SDImageLoadersManager
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix25_user25;\n', '\n- (void)func_prefix26_user26;\n']
+.m函数：['\n+ (void)func_prefix25_user25{\n\n}\n', '\n- (void)func_prefix26_user26{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSArray *airpoPacer;\n']
+.m属性：['\n@property (nonatomic, strong) NSDictionary *ecMipmaIbct;\n']
+
+
+
+
+SDImageCachesManager
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix20_user20;\n', '\n+ (void)func_prefix21_user21;\n', '\n- (void)func_prefix22_user22;\n', '\n- (void)func_prefix23_user23;\n', '\n- (void)func_prefix24_user24;\n']
+.m函数：['\n- (void)func_prefix20_user20{\n\n}\n', '\n+ (void)func_prefix21_user21{\n\n}\n', '\n- (void)func_prefix22_user22{\n\n}\n', '\n- (void)func_prefix23_user23{\n\n}\n', '\n- (void)func_prefix24_user24{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSArray *elega;\n', '\n@property (nonatomic, assign) BOOL puiStarfCinem;\n', '\n@property (nonatomic, strong) NSString *tattlSilveChit;\n']
+.m属性：['\n@property (nonatomic, strong) UIView *storeHotbo;\n', '\n@property (nonatomic, strong) UIImage *phrasIdent;\n']
+
+
+
+
+NSData+ImageContentType
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix16_user16;\n', '\n- (void)func_prefix17_user17;\n', '\n+ (void)func_prefix18_user18;\n', '\n- (void)func_prefix19_user19;\n']
+.m函数：['\n+ (void)func_prefix16_user16{\n\n}\n', '\n- (void)func_prefix17_user17{\n\n}\n', '\n+ (void)func_prefix18_user18{\n\n}\n', '\n- (void)func_prefix19_user19{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+UIImageView+WebCache
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix15_user15;\n']
+.m函数：['\n+ (void)func_prefix15_user15{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+SDImageIOCoder
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix14_user14;\n']
+.m函数：['\n+ (void)func_prefix14_user14{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) UIImage *umbreHostnFalco;\n', '\n@property (nonatomic, assign) BOOL uncolSuffi;\n', '\n@property (nonatomic, strong) UIView *indigDicti;\n', '\n@property (nonatomic, strong) NSString *sassSenso;\n']
+.m属性：['\n@property (nonatomic, strong) UIImage *zippeItems;\n']
+
+
+
+
+SDDiskCache
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix11_user11;\n', '\n+ (void)func_prefix12_user12;\n', '\n+ (void)func_prefix13_user13;\n']
+.m函数：['\n+ (void)func_prefix11_user11{\n\n}\n', '\n+ (void)func_prefix12_user12{\n\n}\n', '\n+ (void)func_prefix13_user13{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSString *evaneDevel;\n']
+.m属性：['\n@property (nonatomic, assign) BOOL whcUtlPlay;\n', '\n@property (nonatomic, strong) NSString *bibliHidinCenso;\n', '\n@property (nonatomic, strong) NSString *sentrAssocSilho;\n']
+
+
+
+
+SDAnimatedImageRep
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix8_user8;\n', '\n- (void)func_prefix9_user9;\n', '\n- (void)func_prefix10_user10;\n']
+.m函数：['\n+ (void)func_prefix8_user8{\n\n}\n', '\n- (void)func_prefix9_user9{\n\n}\n', '\n- (void)func_prefix10_user10{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) NSString *opporGalloTappi;\n', '\n@property (nonatomic, strong) NSArray *gteHalveBacko;\n', '\n@property (nonatomic, strong) UIImage *atomMgmtTrape;\n', '\n@property (nonatomic, strong) UIView *bind;\n', '\n@property (nonatomic, strong) NSDictionary *mikFirmwCrc;\n']
+.m属性：['\n@property (nonatomic, strong) UIImage *testbStagg;\n', '\n@property (nonatomic, strong) NSArray *text;\n', '\n@property (nonatomic, strong) NSString *assigGmail;\n', '\n@property (nonatomic, strong) NSDictionary *familPearl;\n', '\n@property (nonatomic, assign) BOOL bulbOpeniCow;\n']
+
+
+
+
+UIImage+ExtendedCacheData
+随机生成的垃圾代码：
+.h函数：['\n- (void)func_prefix4_user4;\n', '\n- (void)func_prefix5_user5;\n', '\n- (void)func_prefix6_user6;\n', '\n+ (void)func_prefix7_user7;\n']
+.m函数：['\n- (void)func_prefix4_user4{\n\n}\n', '\n- (void)func_prefix5_user5{\n\n}\n', '\n- (void)func_prefix6_user6{\n\n}\n', '\n+ (void)func_prefix7_user7{\n\n}\n']
+.h属性：[]
+.m属性：[]
+
+
+
+
+TestViewController1
+随机生成的垃圾代码：
+.h函数：['\n+ (void)func_prefix1_user1;\n', '\n- (void)func_prefix2_user2;\n', '\n- (void)func_prefix3_user3;\n']
+.m函数：['\n+ (void)func_prefix1_user1{\n\n}\n', '\n- (void)func_prefix2_user2{\n\n}\n', '\n- (void)func_prefix3_user3{\n\n}\n']
+.h属性：['\n@property (nonatomic, strong) UIView *frequ;\n', '\n@property (nonatomic, strong) UIImage *editiHonor;\n', '\n@property (nonatomic, strong) NSString *strip;\n', '\n@property (nonatomic, strong) NSArray *trigg;\n', '\n@property (nonatomic, strong) NSString *spreaCapab;\n', '\n@property (nonatomic, assign) BOOL shell;\n']
+.m属性：['\n@property (nonatomic, strong) UIView *residTempl;\n', '\n@property (nonatomic, strong) UIImage *knobExter;\n', '\n@property (nonatomic, strong) NSDictionary *today;\n', '\n@property (nonatomic, strong) NSArray *sas;\n', '\n@property (nonatomic, assign) BOOL goodiNamedGathe;\n']
